@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="AssignmentOne.AssignmentOne.urls.django" />
+          <option value="AssignmentOne.Prime" />
+          <option value="AssignmentProject2.AssignmentProject2.urls.AssignmentApp1" />
+          <option value="AssignmentProject2.AssignmentProject2.urls.include" />
+          <option value="AssignmentProject2.AssignmentApp1.urls.AssignmentApp1" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
